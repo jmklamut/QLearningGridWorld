@@ -94,6 +94,13 @@ Each map is represented as a string with:
 - **Q-value Heatmaps**:
   Shows the progression of Q-values for the grid.
 
+## Results
+![episode0](https://github.com/user-attachments/assets/447291e2-f3cb-4aa5-8d7a-fe1bc3cdb384)
+![episode10](https://github.com/user-attachments/assets/16e828a7-b1b3-47cc-abad-ea7d459ba30b)
+![episode100](https://github.com/user-attachments/assets/544d4d55-dabd-42f8-aca6-49a2ee277d76)
+![episode500](https://github.com/user-attachments/assets/0ba2ca01-c730-4e16-ad2b-fd095bef58e0)
+![episode1000](https://github.com/user-attachments/assets/8bd5889f-c0c2-49c4-88e3-b18329faf3b3)
+
 ## References
 - Reinforcement Learning concepts from "Reinforcement Learning: An Introduction" by Sutton and Barto.
 - GridWorld environment inspired by OpenAI Gym environments.
